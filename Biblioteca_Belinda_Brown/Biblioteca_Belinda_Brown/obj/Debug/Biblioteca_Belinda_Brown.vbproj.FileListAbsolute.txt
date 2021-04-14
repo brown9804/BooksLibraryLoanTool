@@ -1,0 +1,23 @@
+C:\Users\Estación 24\AppData\Local\Temporary Projects\Biblioteca_Belinda_Brown\bin\Debug\Biblioteca_Belinda_Brown.exe.config
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\bin\Debug\Biblioteca_Belinda_Brown.exe.config
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\bin\Debug\Biblioteca_Belinda_Brown.exe
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\bin\Debug\Biblioteca_Belinda_Brown.pdb
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\bin\Debug\Biblioteca_Belinda_Brown.xml
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.devoluciones.resources
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.informacion_estudiantes.resources
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.informacion_libros.resources
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.pantalla_principal.resources
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.Resources.resources
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.prestamos.resources
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.vbproj.GenerateResource.Cache
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.exe
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.xml
+D:\Nueva carpeta (3)\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.pdb
+D:\Escritorio\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\bin\Debug\Biblioteca_Belinda_Brown.exe.config
+D:\Escritorio\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.exe
+D:\Escritorio\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.xml
+D:\Escritorio\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.pdb
+E:\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\bin\Debug\Biblioteca_Belinda_Brown.exe.config
+E:\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.exe
+E:\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.xml
+E:\Proyecto Belinda Brown\Biblioteca_Belinda_Brown\Biblioteca_Belinda_Brown\obj\Debug\Biblioteca_Belinda_Brown.pdb
